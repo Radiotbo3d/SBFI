@@ -17,7 +17,7 @@ my version has several improvements or things that I have changed to fit my need
 - They now have a magnetic cover so you don't need to see those screws anymore
 - They now have curved edges instead of chamfers (very similar to [Ramalama2](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers))
 
-### Some more things to know:
+### Some more things yo need to know:
 All the clips for the z belts on the voron 2.4 are the exact same as the BFI
 The internal bearing stack holder is also the exact same as the BFI (so if you had the BFI and you want to change to SBFI you don't need to reprint that part)
 
