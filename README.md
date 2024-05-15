@@ -45,11 +45,9 @@ For Trident, you'll need:
 
 ...plus the same shim/bearing stack setup for each idler as the original stock front idlers.
 
-# Whose fault is all this anyway?
+# Contributos
 
-- @clee, initial prototype
-- @bythorsthunder, early feedback and testing
-- @KayosMaker, first port to V2.4
-- @hartk1213, Micron and Doom 
-
-While not directly built upon it, this design is definitely inspired by @Ramalama2's front idlers.
+- 
+- 
+- 
+- 
