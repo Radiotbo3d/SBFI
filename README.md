@@ -24,7 +24,7 @@ The internal bearing stack holder is also the exact same as the BFI (so if you h
 ## BOM
 
 ### SBFI for Trident
-(It's the exact same BOM as the BFI but you just need 8 6x3mm magnets (4 per idler)
+(It's the exact same BOM as BFI but you just need 8 6x3mm magnets (4 per idler)
 For Trident, you'll need:
 - 4× M5×40 SHCS
 - 4× M5 hex nuts
@@ -33,7 +33,7 @@ For Trident, you'll need:
 ...plus the same shim/bearing stack setup for each idler as the original stock front idlers.
 
 ### SBFI for Voron 2.4
-(It's the exact same BOM as the BFI but you just need 8 6x3mm magnets (4 per idler)
+(It's the exact same BOM as BFI but you just need 8 6x3mm magnets (4 per idler)
 For V2.4, you'll need:
 - 4× M5×30 BHCS 
 - 4× M5 hex nuts
