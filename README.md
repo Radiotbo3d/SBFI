@@ -1,4 +1,4 @@
-# BFI (Beefy Front Idlers)
+# SBFI (Smooth Beefy Front Idlers)
 
 ![BFI family render](Images/SBFI_2.4.png)
 ![BFI family render](Images/SBFI_Trident.png)
