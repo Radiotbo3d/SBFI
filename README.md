@@ -46,8 +46,9 @@ For Trident, you'll need:
 ...plus the same shim/bearing stack setup for each idler as the original stock front idlers.
 
 # Contributos
+I want to thank everyone who has helped to develop this project.
 
-- 
-- 
-- 
-- 
+- @clee (Original BFI)
+- @Ramalama2 (Curved edges design)
+- @Shaly (Improvement suggestions and testing)
+- @TheVoronModder (Improvement suggestions) (also check his [Chunky Alpaca Idlers](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers))
