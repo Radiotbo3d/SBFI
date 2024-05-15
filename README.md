@@ -49,7 +49,7 @@ For Trident, you'll need:
 I want to thank everyone who has helped to develop this project.
 
 - @clee (Original BFI)
-- @Ramalama2 (Curved edges design)
+- @Ramalama2 (Curved edged design)
 - @Shaly (Improvement suggestions and testing)
 - @TheVoronModder (Improvement suggestions) (also check his [Chunky Alpaca Idlers](https://www.printables.com/model/678823-voron-24-trident-chunky-alpaca-tensioners))
 
