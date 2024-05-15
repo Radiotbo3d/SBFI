@@ -3,7 +3,7 @@
 ![BFI family render](Images/SBFI_2.4.png)
 ![BFI family render](Images/SBFI_Trident.png)
 
-### What?
+### What is this?
 
 These are replacement front idlers for Vorons (and Voron-based machines) designed with one core principle: use belt tension to *compress* printed layers instead of splitting or pulling them apart.
 
