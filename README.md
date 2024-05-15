@@ -5,9 +5,8 @@
 
 ### What is this?
 
-These are replacement front idlers for Vorons (and Voron-based machines) designed with one core principle: use belt tension to *compress* printed layers instead of splitting or pulling them apart.
-
-This design is available for Voron Trident, Voron 2.4, Salad Fork, and Micron.
+These are replacement front idlers for Vorons (and Voron-based machines).
+This design is available for Voron Trident and Voron 2.4.
 
 ### Why?
 
