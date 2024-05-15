@@ -1,6 +1,7 @@
 # BFI (Beefy Front Idlers)
 
-![BFI family render](images/BFI.png)
+![BFI family render](Images/SBFI_2.4.png)
+![BFI family render](Images/SBFI_Trident.png)
 
 ### What?
 
