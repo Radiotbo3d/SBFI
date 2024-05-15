@@ -10,7 +10,7 @@ This design is available for Voron Trident and Voron 2.4.
 
 ### Improvements?
 
-This is a version remixed/based on https://github.com/clee/VoronBFI/tree/main
+This is a version remixed/based on [BFI](https://github.com/clee/VoronBFI/tree/main)
 my version has several improvements or things that I have changed to fit my needs.
 #### Changes:
 - They are now symetrical
