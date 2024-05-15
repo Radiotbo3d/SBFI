@@ -51,7 +51,7 @@ I want to thank everyone who has helped to develop this project.
 - @clee (Original BFI)
 - @Ramalama2 (Curved edges design)
 - @Shaly (Improvement suggestions and testing)
-- @TheVoronModder (Improvement suggestions) (also check his [Chunky Alpaca Idlers](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers))
+- @TheVoronModder (Improvement suggestions) (also check his [Chunky Alpaca Idlers](https://www.printables.com/model/678823-voron-24-trident-chunky-alpaca-tensioners))
 
 And If someone has any suggestion for improving the design or maybe some cool features I could add, please don't hesitate to tell me.
 You can either contact me trough Github or though Discord "radiotbo" (I'd probably answer you faster though discord)
