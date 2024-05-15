@@ -15,8 +15,7 @@ my version has several improvements or things that I have changed to fit my need
 #### Changes:
 - They are now symetrical
 - They now have a magnetic cover so you don't need to see those screws anymore
-- They now have curved edges instead of chamfers (very similar to [Ramalama2](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers)
-)
+- They now have curved edges instead of chamfers (very similar to [Ramalama2](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers))
 
 Stock | Rama's
 --- | ---
