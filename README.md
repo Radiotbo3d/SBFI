@@ -39,10 +39,10 @@ For V2.4, you'll need:
 ...plus the same shim/bearing stack setup for each idler as the original stock front idlers.
 
 ### SBFI for Trident
-(It's the exact same BOM as BFI but you also need 8 6x3mm magnets (4 per idler)
+(It's the exact same BOM as BFI but you also need 8 6x3mm magnets (4 per idler) (and the exception that you need to change the M5x40 SHCS for M5x40 BHCS)
 
 For Trident, you'll need:
-- 4× M5×40 SHCS
+- 4× M5×40 BHCS
 - 4× M5 hex nuts
 - 2× 5mm-diameter pin, 18mm long
 
