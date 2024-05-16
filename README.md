@@ -58,4 +58,4 @@ I want to thank everyone who has helped to develop this project.
 
 And If someone has any suggestion for improving the design or maybe some cool features I could add, please don't hesitate to tell me.
 
-You can either contact me trough Github or though Discord "radiotbo" (I'd probably answer you faster though discord)
+You can either contact me through Github or through Discord "radiotbo" (I'd probably answer you faster through discord)
