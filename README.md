@@ -27,7 +27,7 @@ The front magnetic covers and be printed with MMU/AMS, you can print them as sep
 ## BOM
 
 ### SBFI for Voron 2.4
-(It's the exact same BOM as BFI but you also need 8 6x3mm magnets (4 per idler)
+(It's the exact same BOM as BFI but you also need 8 6x3mm magnets (4 per idler) "it will also work fine with 4 magnets (2 per idler) but I still recomend you use 8 magnets"
 
 For V2.4, you'll need:
 - 4× M5×30 BHCS 
@@ -39,7 +39,7 @@ For V2.4, you'll need:
 ...plus the same shim/bearing stack setup for each idler as the original stock front idlers.
 
 ### SBFI for Trident
-(It's the exact same BOM as BFI but you also need 8 6x3mm magnets (4 per idler) (and the exception that you need to change the M5x40 SHCS for M5x40 BHCS)
+(It's the exact same BOM as BFI but you also need 8 6x3mm magnets (4 per idler) "it will also work fine with 4 magnets (2 per idler) but I still recomend you use 8 magnets" (and the exception that you need to change the M5x40 SHCS for M5x40 BHCS)
 
 For Trident, you'll need:
 - 4× M5×40 BHCS
