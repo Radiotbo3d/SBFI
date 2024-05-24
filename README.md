@@ -22,7 +22,7 @@ All the clips for the z belts on the voron 2.4 are the exact same as the BFI
 
 The internal bearing stack holder is also the exact same as the BFI (so if you had the BFI and you want to change to SBFI you don't need to reprint that part)
 
-The front magnetic covers can be printed with MMU/AMS or you can print them as separate gcodes without removing the build plate after each print, or you can just print it with the negative of the voron logo (single color)
+The front magnetic covers can be printed with MMU/AMS or you can print them as separate gcodes without removing the build plate after each print, or you can just print them with the negative of the voron logo (single color)
 
 ## BOM
 
