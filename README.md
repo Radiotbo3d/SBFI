@@ -20,7 +20,7 @@ my version has several improvements or things that I have changed to fit my need
 ### Some more things you need to know:
 You can also find this model on:
 - [Clee's usermods github](https://github.com/clee/VoronBFI/tree/main/usermods#other-bfi-forksvariants)
-- [printables](https://www.printables.com/model/890840-sbfi-smooth-beefy-front-idlers)
+- [Printables](https://www.printables.com/model/890840-sbfi-smooth-beefy-front-idlers)
 
 All the clips for the z belts on the voron 2.4 are the exact same as the BFI
 
