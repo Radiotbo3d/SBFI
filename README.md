@@ -18,6 +18,10 @@ my version has several improvements or things that I have changed to fit my need
 - They now have curved edges instead of chamfers (very similar to [Ramalama2](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers))
 
 ### Some more things you need to know:
+You can also find this model on:
+-[Clee's usermods github]()
+-[printables](https://www.printables.com/model/890840-sbfi-smooth-beefy-front-idlers)
+
 All the clips for the z belts on the voron 2.4 are the exact same as the BFI
 
 The internal bearing stack holder is also the exact same as the BFI (so if you had the BFI and you want to change to SBFI you don't need to reprint that part)
