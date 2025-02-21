@@ -52,6 +52,35 @@ For Trident, you'll need:
 
 ...plus the same shim/bearing stack setup for each idler as the original stock front idlers.
 
+## Belt / Idler Skew Tuning.
+
+BFI has a tendency to wear down belts, a known issue that occurs when the idlers are misaligned. This is also discussed in an upstream issue: https://github.com/clee/VoronBFI/issues/29.
+
+You can use the macro below to move the tool head in a circular pattern within its range of motion. This ensures the belts keep moving consistently while you adjust the idlers.
+
+```
+[gcode_macro _TEST_BELTS]
+gcode:
+  {% if 'x' not in printer.toolhead.homed_axes %}
+  {% if 'y' not in printer.toolhead.homed_axes %}
+  G28 X Y 
+  {% endif %}
+  {% endif %}
+ 
+  {% set circles = params.S|default(1)|int %}
+  {% set rate = params.F|default(18000)|int %}
+  {% for i in range(circles) %}
+      G1 X{printer.toolhead.axis_minimum.x + 15} Y{printer.toolhead.axis_minimum.y + 15}  F{rate}
+      G1 X{printer.toolhead.axis_maximum.x - 15} Y{printer.toolhead.axis_minimum.y + 15}  F{rate}
+      G1 X{printer.toolhead.axis_maximum.x - 15} Y{printer.toolhead.axis_maximum.y - 15} F{rate}
+      G1 X{printer.toolhead.axis_minimum.x + 15} Y{printer.toolhead.axis_maximum.y - 15}  F{rate}
+      G1 X{printer.toolhead.axis_minimum.x + 15} Y{printer.toolhead.axis_minimum.y + 15}  F{rate}
+    {% endfor %}
+    G1 X{ printer.toolhead.axis_maximum.x / 2  } Y{printer.toolhead.axis_maximum.y  /2}  F{rate}
+```
+
+As the belts move, you can better observe if they are riding up on the flanges. To adjust, loosen the side you want the belt to shift toward—if it's riding up on the top flange, loosen the top bolt; if it's on the bottom flange, loosen the bottom bolt.
+
 # Contributors
 I want to thank everyone who has helped to develop this project.
 
