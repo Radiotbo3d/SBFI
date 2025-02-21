@@ -81,9 +81,6 @@ gcode:
 
 As the belts move, you can better observe if they are riding up on the flanges. To adjust, loosen the side you want the belt to shift toward—if it's riding up on the top flange, loosen the top bolt; if it's on the bottom flange, loosen the bottom bolt.
 
-Hope this helps, and feel free to add this to the docs. 
-
-
 # Contributors
 I want to thank everyone who has helped to develop this project.
 
