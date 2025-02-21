@@ -52,7 +52,7 @@ For Trident, you'll need:
 
 ...plus the same shim/bearing stack setup for each idler as the original stock front idlers.
 
-## Belt / Idler Skew Tuning.
+## Belt / Idler Skew Tuning
 
 BFI has a tendency to wear down belts, a known issue that occurs when the idlers are misaligned. This is also discussed in an upstream issue: https://github.com/clee/VoronBFI/issues/29.
 
@@ -78,6 +78,8 @@ gcode:
     {% endfor %}
     G1 X{ printer.toolhead.axis_maximum.x / 2  } Y{printer.toolhead.axis_maximum.y  /2}  F{rate}
 ```
+
+Call this macro with the parameter S to set the number of circles. For example, use `_TEST_BELTS S=20` to run 20 circles.
 
 As the belts move, you can better observe if they are riding up on the flanges. To adjust, loosen the side you want the belt to shift toward—if it's riding up on the top flange, loosen the top bolt; if it's on the bottom flange, loosen the bottom bolt.
 
