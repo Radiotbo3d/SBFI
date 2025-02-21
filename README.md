@@ -89,6 +89,7 @@ I want to thank everyone who has helped to develop this project.
 - [@Shaly](https://github.com/Apstarkdev) (Improvement suggestions and testing)
 - [@TheVoronModder](https://www.youtube.com/@TheVoronModder) (Improvement suggestions) (check out his [Chunky Alpaca Idlers](https://www.printables.com/model/678823-voron-24-trident-chunky-alpaca-tensioners))
 - @Micky (Curved edges suggestion)
+- [@Vajonam](https://github.com/vajonam) (Feedback)
 
 And If someone has any suggestion for improving the design or maybe some cool features I could add, please don't hesitate to tell me.
 
