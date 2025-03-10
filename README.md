@@ -84,7 +84,7 @@ Call this macro with the parameter S to set the number of circles. For example, 
 As the belts move, you can better observe if they are riding up on the flanges. To adjust, loosen the side you want the belt to shift toward—if it's riding up on the top flange, loosen the top bolt; if it's on the bottom flange, loosen the bottom bolt.
 <br/>
 <br/>
-[![support me](https://github.com/CloakedWayne/Monolith_Gantry_V2-VT/blob/main/Images/kofi_short_button_white.png)](https://ko-fi.com/radiotbo)
+[![support me](https://github.com/Radiotbo3d/SBFI/images/kofi_button.png)](https://ko-fi.com/radiotbo)
 <br/>
 # Contributors
 I want to thank everyone who has helped to develop this project.
