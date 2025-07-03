@@ -85,7 +85,8 @@ As the belts move, you can better observe if they are riding up on the flanges. 
 <br/>
 <br/>
 [![support me](https://github.com/Radiotbo3d/SBFI/blob/main/Images/kofi_button.png)](https://ko-fi.com/radiotbo)
-<br/> # you can also support me by liking or downloading the files trough [printables](https://www.printables.com/model/890840-sbfi-smooth-beefy-front-idlers)
+<br/>
+# you can also support me by liking or downloading the files trough [printables](https://www.printables.com/model/890840-sbfi-smooth-beefy-front-idlers)
 <br/>
 # Contributors
 I want to thank everyone who has helped to develop this project.
